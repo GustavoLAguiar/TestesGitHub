@@ -1,2 +1,4 @@
 # testando commit
 # no git
+# agora verificando
+# git add antes de commit

@@ -1,3 +1,2 @@
 # um novo projetos git
-# aplicando testes
-# agora vai
+# aplicando testes de versionamento

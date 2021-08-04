@@ -1,3 +1,2 @@
-# um novo projetos git
-# aplicando testes de versionamento
-# teste final do final
+# Aplicando um teste de versionamento
+# de GIT

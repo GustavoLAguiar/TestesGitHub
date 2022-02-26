@@ -1,2 +1,2 @@
-# Aplicando um teste de versionamento
-# de GIT
+# TestesGitHub
+Repositório criado no GitHub apenas para fins de teste.
